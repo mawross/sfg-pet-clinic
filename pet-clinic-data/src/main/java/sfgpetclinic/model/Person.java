@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic.model;/* 18/10/2022" "11:36" "Julian */
+package sfgpetclinic.model;/* 18/10/2022" "11:36" "Julian */
 
 public class Person {
 
